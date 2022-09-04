@@ -784,9 +784,9 @@ const displayWhereabouts = (dataReceita, nome, rg) => {
                 <button onclick="hideWhereabouts()" class="back">⬅️ Voltar</button>
             </div>
             <div class="col-md-5">
-                <h3>Credilink</h3>
-                <p>Atenção: Informações da base de dados do Credilink não podem ser incluídos nos autos.</p>
-                <div id="credilink">Carregando endereços Credilink...</div>
+                <h3>Previnity</h3>
+                <p>Atenção: Informações da base de dados do Previnity não podem ser incluídos nos autos.</p>
+                <div id="credilink">Carregando endereços Previnity...</div>
             </div>
             <div class="col-md-5">
                 <h3>Receita Federal</h3>
